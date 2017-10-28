@@ -19,7 +19,7 @@ void setup() {
 }
 
 void loop() {
-  if (isTime.over("event")) {
+  if (isTime.isOver("event")) {
     Serial.println("Gotcha!");
   }
 }
