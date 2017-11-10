@@ -1,4 +1,6 @@
-# IsTime
+# IsTime 
+
+[![Build Status](https://travis-ci.org/akarduino/IsTime.svg?branch=master)](https://travis-ci.org/akarduino/IsTime)
 
 Библиотека Arduino для определения времени наступления события.
 
